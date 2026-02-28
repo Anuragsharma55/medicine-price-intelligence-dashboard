@@ -5,6 +5,16 @@ An interactive Streamlit dashboard that compares medicine prices across online p
 The system extracts real-time product data using SerpAPI and provides price comparison, visual analytics, and best-price identification to help users make informed purchasing decisions.
 
 ---
+## Dashboard Preview
+
+# Main Interface
+![Dashboard](screenshots/dashboard.png)
+
+# Price Comparison
+![Comparison](screenshots/comparison.png)
+
+# Price Insights
+![Insights](screenshots/insights.png)
 
 ## Features
 
