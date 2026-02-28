@@ -11,7 +11,7 @@ The system extracts real-time product data using SerpAPI and provides price comp
 ![Dashboard](https://github.com/Anuragsharma55/medicine-price-intelligence-dashboard/blob/0d6c99f4a5174fdb4715ddf2a26a66d71e79197f/Main%20Interface%20snapshot.png)
 
 # Price Comparison
-![Comparison](screenshots/comparison.png)
+![Comparison](https://github.com/Anuragsharma55/medicine-price-intelligence-dashboard/blob/27a664c18015dbdebce107b721f940341b8eb9f0/Price%20Comparison%20snapshot.png)
 
 # Price Insights
 ![Insights](screenshots/insights.png)
